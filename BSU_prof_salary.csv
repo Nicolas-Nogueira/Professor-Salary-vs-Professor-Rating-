@@ -1,0 +1,176 @@
+Employees,Base Pay,dept,rating
+Kathleen Ferris,109385.83,marketing ,2.6
+Uma Shama,106233.94,math ,4.3
+Steven Greenberg,120793.52,education,4.3
+Patricia Bancroft,109446.72,accounting ,3.4
+Xiangrong Liu,111842.88,management,3.6
+Diana Fox,97279.12,anthropology ,2.8
+Walter Carroll,108833.04,social science ,2.9
+Martin Grossman,108555.61,business,4.4
+Chien Yu,106674.74,physical education ,1.7
+Jo Hoffman,102163.2,education,3.3
+Michele Wakin,100811.52,sociology,3.5
+Carleton Donchess,109711.0,accounting ,3.9
+Vignon Oussa,75750.58,math ,3.5
+Abdul Sattar,106749.92,comp sci,2.8
+Shannon Donovan,106355.54,accounting ,2.3
+Jabbar Al-Obaidi,98202.68,communication,3.0
+Madhusudana Rao,101110.78,geography,3.1
+Stephen Nelson,99287.54,math ,3.3
+Mia Ortiz,76710.6,criminal justice,3.6
+Aeon Skoble,95216.78,Philsophy,3.1
+Merideth Krevosky,87552.18,biology,4.9
+Ann Brunjes,94103.5,english ,4.6
+Tong-Ching Tom Wu,96373.2,physical education ,3.0
+Jeffrey Williams,101941.4,science ,3.3
+Marian Extejt,100997.92,management,3.2
+Karen Richardson,89535.8,physical education ,2.0
+John Santore,100458.18,comp sci,3.9
+Andrew Holman,96518.31,history,3.8
+Michael Jones,92351.4,economics ,3.9
+Kim MacInnis,100616.97,social science ,3.4
+Thomas Kling,86405.92,physics,4.5
+Robert Grantham,79457.65,criminal justice,2.8
+Ward Heilman,96907.02,math ,4.5
+Beverly Lovett,93908.54,Social Work ,3.6
+Donald Padgett,93986.1,biology,3.5
+Robert Haslam,98334.82,physical education ,3.0
+Michael Carson,97305.02,science ,3.0
+Margaret Lowe,93390.49,history,3.2
+Salil Sachdev,93995.77,music ,4.0
+Leonid Heretz,97555.5,history ,4.3
+Teresa King,97528.87,psychology ,3.7
+Lydia Burak,97489.2,physical education ,2.6
+Michael Krol,89948.08,science ,4.4
+Jennifer Hartsfield,76710.6,criminal justice,2.9
+Joyce Rain Anderson,82798.2,english ,4.4
+Peter Saccocia,96975.8,science ,4.0
+Julia Stakhnevich,87644.54,languages,3.9
+James Hayes-Bohanan,96305.5,geography,4.3
+Deborah Sheehy,96470.98,physical education ,2.3
+Sarah Thomas,70419.69,education,3.3
+Darcy Boellstorff,88448.38,geography,4.4
+Richard Wright,96277.31,sociology,2.8
+Erin O'Connor,88322.2,english ,3.8
+Leora Lev,94294.5,languages,4.3
+Stephen Waratuke,85463.9,chemistry ,4.2
+Edward Deveney,95086.82,physics,4.5
+Sandra Neargarder,93606.92,psychology ,4.3
+George Serra,94340.32,political science ,2.4
+Elizabeth Spievak,88236.7,psychology ,2.6
+Deborah Nemko,86390.34,music ,3.8
+Robert Lorenson,93761.0,fine arts ,3.3
+Bennie Agbarha,83513.18,education,2.0
+Mark Crowley,92552.22,accounting ,4.6
+Ellen Ingmanson,87848.4,anthropology ,2.6
+David Almeida,91519.9,education,3.4
+Ellyn Robinson,91412.42,health science ,4.5
+Anne Hird,88431.5,english ,2.8
+Steven Haefner,88369.5,chemistry ,3.9
+Keith Lewinstein,91154.4,history,2.9
+Jeffrey Nicholas,86330.68,psychology ,4.6
+Christopher Bloch,87265.6,biology,4.0
+Arthur Lizie,84685.62,communication,2.3
+Susan Eliason,78245.98,education,3.3
+Mahmoud El-Hashash,89136.22,math ,3.4
+Maura Rosenthal,89678.1,physical education ,4.5
+Beatrice St.Laurent,88064.42,art history ,1.9
+David O'Malley,81063.3,communication,5.0
+Robert Hellstrom,87610.7,geography,4.5
+Jodi Cohen,88095.4,sociology,4.3
+John Kucich,88269.04,english ,3.9
+Catherine Womack,88265.82,Philsophy,3.3
+Jing Tan,81327.6,Social Work ,3.7
+Gregory Chaplin,88175.0,english ,3.8
+Fernanda Ferreira,86785.72,languages,4.2
+Robert Cicerone,86943.42,science ,4.1
+Wing-Kai To,85974.82,history ,3.9
+Shannon Lockard,77828.68,math ,3.8
+Melissa Freeburg,80138.2,education,5.0
+Mary Dondero,86932.05,graphic art ,4.1
+Ryan LaBrozzi,78121.54,languages,3.8
+Benjamin Carson,85919.03,english ,4.6
+Laura Gross,83486.0,math ,2.9
+Sarah McQuarrie,78567.87,music ,3.6
+Suanne Maurer,85325.4,health science ,4.2
+Seikyung Jung,85108.6,comp sci,3.0
+Boriana Marintcheva,79563.65,biology,3.5
+Kimberly Davis,78364.74,english ,4.1
+Kimberly Fox,69493.85,sociology,2.6
+Kathryn Evans,82746.35,english ,4.1
+Thilina Surasinghe,69596.82,biology,3.2
+Jefferson Kemper,83772.34,political science ,3.1
+Heidi Bean,76876.59,english ,3.6
+Kathleen Vejvoda,82946.77,english ,4.0
+Robert Sylvester,83091.68,education,3.3
+Robert Saunders,82960.72,geography,4.5
+Donald Running,79041.34,music ,3.1
+Michelle Mamberg,79563.64,psychology ,3.4
+Robert Colandreo,82472.72,health science ,3.5
+Jordon Barkalow,75186.23,political science ,3.6
+Fang Deng,81965.93,sociology,1.8
+James Leone,81368.19,health science ,4.2
+Brian Frederick,77644.09,political science ,3.6
+James Crowley,81112.72,english ,4.8
+John Mulrooney,78823.78,english ,4.0
+Irina Seceleanu,76876.61,math ,4.2
+Minae Savas,78735.8,languages,4.0
+Joseph Seggio,77480.29,biology,4.9
+Ellen Scheible,79292.7,english ,4.8
+Thomasena Shaw,75543.42,communication,4.1
+Yongjun Shin,74372.2,communication,4.6
+Matthew Bell,78364.74,english ,3.7
+Matthew Dasti,78169.62,Philsophy,3.7
+Heather Marella,75539.23,biology,4.6
+Allyson Ferrante,71026.66,english ,3.6
+Sarah Wiggins,78178.17,history,4.2
+Jason Edwards,78178.16,communication,3.9
+Leigh Craven,78059.02,fine arts ,2.9
+Rebecca Metcalf,77535.58,math ,4.8
+Kevin Donnelly,73514.42,political science ,4.7
+Jessica Birthisel,74520.94,communication,4.8
+James Pearson,69373.38,Philsophy,3.8
+Jonathan Roling,77280.92,biology,3.3
+Bjorn Ingvoldstad,76782.22,communication,3.7
+Kevin Rion,76710.6,math ,3.2
+Melissa Singer,76917.32,psychology ,4.3
+Margaret Black,71077.98,anthropology ,2.3
+Thomas Nester,76710.6,history,4.2
+Tina Jameson,76680.96,psychology ,3.6
+William Devlin,76600.1,Philsophy,4.7
+Jeffrey Webb,76456.16,accounting ,4.0
+Gal Kober,74602.6,Philsophy,3.3
+Laura Ramsey,75543.36,psychology ,4.5
+Bruce Dalton Machart,74955.93,english ,4.0
+Norma Anderson,74602.6,sociology,3.3
+John Sexton,73787.71,english ,3.7
+Thayaparan Paramanathan,71119.1,physics,4.5
+Caroline Stanley,69920.01,psychology ,4.7
+Lisa Litterio,68802.62,english ,4.6
+Daniel Chase,68802.62,physical education ,5.0
+Enping Li,71253.05,comp sci,4.3
+Paul Rubinson,71411.3,history,3.9
+Janessa Carvalho,68802.62,psychology ,3.0
+Jacqueline Anderson,68802.62,math ,4.2
+John Calicchia,27594.06,psychology ,4.5
+Magaly Ponce,46904.8,fine arts ,3.0
+Ivana George,41575.57,fine arts ,2.7
+Jonghyun Lee,40069.77,Social Work ,4.3
+Kevin Kalish,38166.75,english ,3.8
+Polina Sabinin,36570.68,math ,2.8
+Edward Brush,25525.66,science ,4.4
+Nesa Wasarhaley,3565.92,psychology ,3.9
+Heather Pacheco-Guffrey,3565.91,education,2.9
+Emily Field,3565.91,english ,3.4
+Peter Sietins,4756.51,business,4.4
+Louise Badiane,4220.97,anthropology ,2.3
+Jeanne Ingle,3444.87,education,4.1
+Alice Cheng,3573.19,psychology ,3.6
+Sean McPherson,3610.59,english ,3.2
+Simone Poliandri,3600.86,anthropology ,3.6
+Jamie Huff,3565.91,criminal justice,4.9
+Melissa Brandon,3565.91,psychology ,4.0
+Melinda Tarsi-Goldfien,3565.91,political science ,4.7
+Melissa Keh,3536.55,education,2.9
+Alba Aragon,3520.66,languages,3.2
+John Pike,3444.87,math ,3.9
